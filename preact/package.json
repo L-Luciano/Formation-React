@@ -1,0 +1,25 @@
+{
+  "name": "preact",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Laurent Luciano",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "preact": "^8.2.7",
+    "preact-compat": "^3.18.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.1.6"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-preact": "^1.1.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}

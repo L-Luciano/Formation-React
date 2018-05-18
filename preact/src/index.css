@@ -1,0 +1,19 @@
+.divided-by-3 {
+    background: blue
+}
+
+.divided-by-7 {
+    background: red
+}
+
+.odd {
+    color: purple
+}
+
+.even {
+    color: peru
+}
+
+.label{
+    font-style: italic
+}
